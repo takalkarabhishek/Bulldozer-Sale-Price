@@ -76,4 +76,5 @@ Data Dictionary :
 51. Travel_Controls machine configuration: describes operator control configuration
 52. Differential_Type machine configuration: differential type, typically locking or standard
 53. Steering_Controls machine configuration: describes operator control configuration
+
 Note that a particular datasource may report on multiple auctioneerIDs
